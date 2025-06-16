@@ -1,0 +1,57 @@
+abbrev,name,counties
+AL,Alameda
+AM,Amador
+AP,Alpine
+BU,Butte
+CA,Calaveras
+CC,Contra Costa
+CO,Colusa
+DL,Legal Delta,"Alameda,Contra Costa,Sacramento,San Joaquin,Solano,Yolo"
+DN,Del Norte
+ED,El Dorado
+eFR,Fresno,"Eastern Fresno"
+FR,Fresno
+GL,Glenn
+HU,Humboldt
+IM,Imperial
+KG,Kings
+KN,Kern
+LD,Legal Delta,"Alameda,Contra Costa,Sacramento,San Joaquin,Solano,Yolo"
+LK,Lake
+LS,Lassen
+MA,Madera
+MA_v2,Madera
+ME,Merced
+MN,Mono,"Mono -North Protion"
+MO,Modoc
+MP,Mariposa
+MR,Marin
+MT,Monterey
+NA,Napa
+NE,Nevada
+nMN,Mono,"Northern Mono"
+PL,Placer
+PM,Plumas
+RI,Riverside
+SA,Sacramento
+SD,San Diego
+SH,Shasta
+SI,Sierra
+SJ,San Joaquin
+SK,Siskiyou
+SM,San Mateo
+SN,Sonoma
+SO,Solano
+SS,Stanislaus
+ST,San Benito
+SU,Sutter
+SX,South Central Coast,"San Luis Obispo,Santa Barbara"
+SZ,Santa Cruz
+TE,Tehama
+TO,Tuolumne
+TR,Trinity
+TU,Tulare
+US,Upper Santa Ana River,"Los Angeles,Riverside,San Bernardino"
+VE,Ventura
+YO,Yolo
+YU,Yuba
