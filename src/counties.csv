@@ -1,0 +1,89 @@
+abbrev,name,counties
+DL,Legal Delta,"Alameda,Contra Costa,Sacramento,San Joaquin,Solano,Yolo"
+FR,Fresno,
+SJ,San Joaquin,
+YO,Yolo,
+KN,Kern,
+LD,Legal Delta,"Alameda,Contra Costa,Sacramento,San Joaquin,Solano,Yolo"
+KG,Kings
+CO,Colusa
+GL,Glenn
+SA,Sacramento
+TU,Tulare
+US,Upper Santa Ana River,"Los Angeles,Riverside,San Bernardino"
+BU,Butte
+FR,Fresno
+PL,Placer
+SO,Solano
+TE,Tehama
+CC,Contra Costa
+LK,Lake
+MA,Madera
+ME,Merced
+SH,Shasta
+YU,Yuba
+DN,Del Norte
+HU,Humboldt
+KG,Kings
+SJ,San Joaquin
+96SX,South Central Coast,"San Luis Obispo,Santa Barbara"
+SS,Stanislaus
+TR,Trinity
+AM,Amador
+IM,Imperial
+LS,Lassen
+MO,Modoc
+MT,Monterey
+PM,Plumas
+ST,San Benito
+SZ,Santa Cruz
+TO,Tuolumne
+YO,Yolo
+CO,Colusa
+GL,Glenn
+KN,Kern
+MP,Mariposa
+SD,San Diego
+SU,Sutter
+BU,Butte
+MR,Marin
+NA,Napa
+SN,Sonoma
+TE,Tehama
+TU,Tulare
+CA,Calaveras
+FR,Fresno
+RI,Riverside
+SA,Sacramento
+SK,Siskiyou
+VE,Ventura
+AP,Alpine
+LK,Lake
+MA_v2,Madera
+MN,Mono,"Mono -North Protion"
+ME,Merced
+ST,San Benito
+SI,Sierra
+CO,Colusa
+GL,Glenn
+KG,Kings
+SO,Solano
+BU,Butte
+SS,Stanislaus
+SU,Sutter
+NE,Nevada
+SH,Shasta
+YU,Yuba
+AL,Alameda
+DN,Del Norte
+KN,Kern
+TR,Trinity
+TU,Tulare
+YO,Yolo
+eFR,Fresno,"Eastern Fresno"
+ED,El Dorado
+nMN,Mono,"Northern Mono"
+MA,Madera
+MR,Marin
+SM,San Mateo
+AP,Alpine
